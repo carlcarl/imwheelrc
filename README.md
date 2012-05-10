@@ -4,4 +4,6 @@
 
 * Opera
 * Firefox
+* Chromium
+* Nautilus
 
